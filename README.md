@@ -36,51 +36,24 @@ Default location:
 C:\xampp\htdocs
 ```
 
-Create a project folder inside `htdocs`.
+Put project folder inside `htdocs`.
 
 Example:
 
 ```
-C:\xampp\htdocs\product-test\
+C:\xampp\htdocs\test\
 ```
 
 Your project structure may look like:
 
 ```
 htdocs
- └── product-test
-      └── index.php
+ └── test
+      └── Solution.php
 ```
 
----
 
-## 4. Create a PHP File
-
-Create a file named:
-
-```
-index.php
-```
-
-Example path:
-
-```
-C:\xampp\htdocs\product-test\index.php
-```
-
-Add the following PHP test code:
-
-```php
-<?php
-echo "PHP is running with XAMPP!";
-?>
-```
-
-Save the file.
-
----
-
-## 5. Run the Project in Browser
+## 4. Run the Project in Browser
 
 Open your browser and go to:
 
